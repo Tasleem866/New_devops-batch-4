@@ -7,4 +7,6 @@ git log
 git log --online
 git log --online --pretty 
 git restore
+git branch
+git checkout -b
 
