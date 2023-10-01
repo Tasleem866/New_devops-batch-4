@@ -1,5 +1,8 @@
 this is 1st line with good code 
+<<<<<<< HEAD
 
 this is 2nd line with gadbad code
 
 this is 3rd line again gadbad code
+=======
+>>>>>>> parent of f8aa8a1 (updated feature4.txt with 2nd line gadbad code)
