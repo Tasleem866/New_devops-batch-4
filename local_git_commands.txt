@@ -1,0 +1,10 @@
+git init
+git status 
+git add
+git rm -cached
+git commit -m
+git log 
+git log --online
+git log --online --pretty 
+git restore
+
