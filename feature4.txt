@@ -3,3 +3,5 @@ this is 4th feature with good code in 1st line
 this is 2nd line with good code
 
 this is gadbad feature in 3rd line
+
+this is again gadbad code in 4th line
