@@ -1,7 +1,10 @@
 this is 4th feature with good code in 1st line
+<<<<<<< HEAD
 
 this is 2nd line with good code
 
 this is gadbad feature in 3rd line
 
 this is again gadbad code in 4th line
+=======
+>>>>>>> parent of 1f5e8f3 (updated feature 4 with good code in 2nd line)
