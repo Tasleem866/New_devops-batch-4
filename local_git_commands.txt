@@ -7,10 +7,15 @@ git log
 git log --online
 git log --online --pretty 
 git restore
+<<<<<<< HEAD:commands.txt
+git branch
+git checkout -b
+=======
 git pull
 git push
 git fetch
 git remote -v 
 git remote add 
 git remote remove 
+>>>>>>> master:local_git_commands.txt
 
